@@ -1,0 +1,1 @@
+=> is called lamda operator and read as Goes TO. Notice that within lamda expression you don't have to use delegate keyword explicity and you don't have to specify the input parameter type explicity.
